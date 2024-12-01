@@ -1,0 +1,8 @@
+com/mrbeanc/model/Clipboard.class
+com/mrbeanc/config/ClipboardConfig.class
+com/mrbeanc/ClipboardCloudApplication.class
+com/mrbeanc/config/GlobalExceptionHandler.class
+com/mrbeanc/task/ScheduledTask.class
+com/mrbeanc/util/Utils.class
+com/mrbeanc/controller/ClipboardController.class
+com/mrbeanc/controller/TestController.class
